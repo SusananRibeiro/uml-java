@@ -1,4 +1,4 @@
-# Repositório Desafio Controle Fluxo
+# Repositório Desafio UML
 Este repositório é dedicado ao armazenamento do códigos desenvolvido 
 para a entrega do desafio Orientação a Objetos e UML: Diagramação de Classes do iPhone
 do curso Formação Java Developer na DIO.
